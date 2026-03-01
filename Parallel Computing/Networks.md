@@ -1,4 +1,5 @@
 ***Benes network***
+
 ![[Pasted image 20260228140133.png]]
 
 - can be viewed as two back-to-back Butterfly/Omega
